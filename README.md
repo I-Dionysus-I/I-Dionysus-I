@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS And JS
 
 
-- 📫 How to reach me 
 
-Discord: "</Dionysus>#8859"
 
 
                            ****
