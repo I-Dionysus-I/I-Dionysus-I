@@ -5,7 +5,7 @@
 
 - 📫 How to reach me 
 
-Discord: </Dionysus>#8859
+Discord: "</Dionysus>#8859"
 
 
                            ****
