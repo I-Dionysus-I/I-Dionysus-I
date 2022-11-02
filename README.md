@@ -1,27 +1,14 @@
-***- 👋 Hi, I’m @I-Dionysus-I
-- 👀 I’m interested in Web Design
-- 🌱 I’m currently learning HTML, CSS And JS
+Hi I'm Dionysus.
 
+I'm currently a Support Engineer Apprentice.
 
+I have roughly two years of HTML and CSS experience.
 
+I'm familiar with a few languages such as:
 
+HTML
+CSS
+JS
+PHP
+PY
 
-                           ****
-                         ********
-                        **  ******
-                         *   ******     ******
-                             ******   *********
-                              ****  *****   ***
-                              ***  ***     **
-                        *************       *
-                      ******************
-                     *****   H*****H*******
-                     ***     H-___-H  *********
-                      ***    H     H      *******
-                       **    H-___-H        *****
-                         *   H     H         ****
-                             H     H         ***
-                             H-___-H         **
-                             H     H         *
-                             H-___-H
-***
