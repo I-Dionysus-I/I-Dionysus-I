@@ -1,4 +1,4 @@
-Hi I'm Dionysus.
+Hi I'm David, however I go by an Alias of Dionysus on most social platforms.
 
 I'm currently a Support Engineer Apprentice.
 
